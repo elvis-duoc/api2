@@ -1,0 +1,10 @@
+{
+  "estudiantes": [
+    { "id": 1, "nombre": "Felipe", "Apellido": "fe.bazares@duocuc.cl" },
+    { "id": 2, "nombre": "Elvis", "Apellido": "elv.andrade@duocuc.cl" },
+  ],
+  "docentes": [
+    { "id": 1, "nombre": "PROFESOR Felipe", "Apellido": "fe.bazares@duocuc.cl" },
+    { "id": 2, "nombre": "PROFESOR Elvis", "Apellido": "elv.andrade@duocuc.cl" },
+  ],
+}
